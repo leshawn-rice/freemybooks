@@ -10,3 +10,5 @@
 [submodule "freemybooks_com"]
 	path = freemybooks_com
 	url = git@github.com:leshawn-rice/free-my-books.git
+[submodule "freemybooks_com/"]
+	url = git@github.com:leshawn-rice/freemybooks_com.git
