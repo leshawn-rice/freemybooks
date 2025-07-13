@@ -1,0 +1,12 @@
+[submodule "freebooks"]
+	path = freebooks
+	url = git@github.com:leshawn-rice/freebooks.git
+[submodule "freebooks_batch_worker"]
+	path = freebooks_batch_worker
+	url = git@github.com:leshawn-rice/freemybooks_batchworker.git
+[submodule "freebooks_functions"]
+	path = freebooks_functions
+	url = git@github.com:leshawn-rice/freemybooks_azurefunctions.git
+[submodule "freemybooks_com"]
+	path = freemybooks_com
+	url = git@github.com:leshawn-rice/free-my-books.git
